@@ -9,6 +9,7 @@ namespace FirstApproachToFluentAssertions
 {
   public class Primitivos
   {
+    #region Variables dummy
     bool? _boolFalso;
     bool? _boolNulo;
     string _cadenaVacia;
@@ -21,7 +22,7 @@ namespace FirstApproachToFluentAssertions
     double _piDouble;
     DateTimeOffset _fechaYHora;
     DateTime _ahora;
-
+    #endregion
     public Primitivos()
     {
       _boolFalso = false;

@@ -15,10 +15,12 @@ namespace FirstApproachToFluentAssertions
 {
   public class Restantes
   {
+    #region Variables dummy
     List<string> _lista;
     Dictionary<int, string> _diccionarioVacio;
     Dictionary<int, string> _diccionario;
     Guid _id;
+    #endregion
     public Restantes()
     {
       _lista = new List<string> { "elemento1", "elemento2", "elemento3" };
