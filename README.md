@@ -5,6 +5,6 @@ Respositorio de charla online para ejemplicar usos de Fluent Assertions y poder 
 Links útiles
 
 Fluent Assertions Repositorio: https://github.com/fluentassertions/fluentassertions  
-Fluent Assertions Documentos: https://fluentassertions.com/basicassertions/ 
+Fluent Assertions Documentos: https://fluentassertions.com/basicassertions/  
 Fluent Assertions Tips: https://fluentassertions.com/tips/  
 
